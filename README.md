@@ -1,7 +1,7 @@
 # ChulaWiFi
 How to connect to ChulaWiFi with NetworkManager
 ## Preface
-Many of you may wonder why do we even need a guide to connect to chula WiFi, well, that's because I have been struggling to connect to WPA2-Enterprise network for the past 3 days until I randomly stumble upon a solution and I don't want any other Linux users to suffer the same fate as myself.
+Many of you may wonder why do we even need a guide to connect to a wifi, well, that's because I had been struggling to connect to WPA2-Enterprise network for the past 3 days until I randomly stumbled upon a solution and I don't want any other Linux users to suffer the same as myself.
 I haven't tried to recreate the problem with any other configurations other than ArchLinux+Gnome+NetworkManager yet so I am not sure what exactly is the problem.
 When I tried to connect to ChulaWiFi via the provided GUI, it just straight up did nothing after I click "connect". Heck, it didn't even remember the credentials.
 ## Solution

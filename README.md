@@ -30,7 +30,7 @@ After word, you will be shown a menu not too dissimilar to the standard gnome wi
 
 <img src="https://github.com/TheA4Paper/ChulaWiFi/assets/80894853/531a6ab7-f1ca-4644-98dc-eb22238c6738" width="400" />
 
-Finally, move on the the "Wi-Fi Security tab. Configure exactly as shown in the picture **except for username as passoword** use the one for your CUNET instead and click save.
+Finally, move on the the "Wi-Fi Security tab. Configure exactly as shown in the picture **except for username and passoword** use the one for your CUNET instead and click save.
 
 <img src="https://github.com/TheA4Paper/ChulaWiFi/assets/80894853/d315aa75-99c5-496c-b702-6157d1938f9c" width="400" />
 

@@ -21,6 +21,7 @@ You can try edit the config file yourself but I wouldn't be talking about that h
   ```
 ### Add a new network
 Once you launch your nm-connection-editor with commandline or as an app called "Advanced Network Configuration" you will see a list of all your configured network. You will need to add ChulaWiFi or if it already exists, delete it with "-" button.
+
 <img src="https://github.com/TheA4Paper/ChulaWiFi/assets/80894853/556b66aa-66c3-4935-95d8-7c0c396f7ce2" width="400" />
 
 Once clicked "+" button, you will be prompted to select a connection type. Select "Wi-Fi"
